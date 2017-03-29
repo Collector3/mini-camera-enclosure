@@ -1,3 +1,7 @@
+# Miniature Camera Enclosure (M2.5 edition)
+
+![m2.5_screws_printed_case.jpg](m2.5_screws_printed_case.jpg)
+
 Fits this product sold by [Adafruit](https://www.adafruit.com/products/1937)
 
 Extrusion width: 0.48mm
